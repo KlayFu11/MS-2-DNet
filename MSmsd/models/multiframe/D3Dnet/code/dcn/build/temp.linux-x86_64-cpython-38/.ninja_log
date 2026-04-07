@@ -1,0 +1,4 @@
+# ninja log v7
+0	7261	1762245975644377318	/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/build/temp.linux-x86_64-cpython-38/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/src/cpu/deform_cpu.o	75eb0d990dbefe69
+0	16510	1762245975644377318	/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/build/temp.linux-x86_64-cpython-38/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/src/cuda/deform_conv_cuda.o	dc6329622fead469
+1	21948	1762245975645377308	/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/build/temp.linux-x86_64-cpython-38/home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/deepmist/models/multiframe/D3Dnet/code/dcn/src/vision.o	9471c36380afe8d5
