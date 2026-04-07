@@ -1,0 +1,13 @@
+model:
+  network: 
+    name: RFR_STDNet
+
+dataset:
+  name: Synthetic 
+  root: /home/ubuntu/data/zhengqinxu/object_detection/DATA/test_video_4_384
+  num_inputs: 5
+
+test:
+  exp_root: /home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/results/RFR_STDNet_MIST_Level2Conv3_nooffset_Mytest
+  num_workers: 8 
+  checkpoint: /home/ubuntu/data/zhengqinxu/object_detection/Deep-MIST/results/RFR_STDNet_MIST_Level2Conv3_nooffset_last/20251115_230834/checkpoints/model_epoch_59.pth
